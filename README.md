@@ -1,0 +1,2 @@
+# smashfortressvscript
+funny vscript gamemode
