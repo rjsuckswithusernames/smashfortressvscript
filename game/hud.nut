@@ -1,21 +1,3 @@
-//=========================================================================
-//Copyright LizardOfOz.
-//This is still beta and things might and will change over time.
-//
-//Check the following links for updates:
-//   https://tf2maps.net/members/lizardofoz.39426/#resources
-//   https://twitter.com/LizardOfOz_
-//   https://youtube.com/LizardOfOz
-//
-//Credits:
-//  LizardOfOz - the original VSH Plugin. VSH Vscript recreation.
-//  Maxxy - Saxton Hale's model imitating Jungle Inferno SFM; Custom animations and promotional material.
-//  Velly - VFX, animations scripting, technical assistance
-//  JPRAS - Mayann Hale body reference, model feedback.
-//  MegapiemanPHD - Saxton Hale and Gray Mann voice acting.
-//  Yakibomb - give_tf_weapon script bundle (used for Hale's first-person hands model).
-//=========================================================================
-
 function SpawnTextEntities(void)
 {
 
